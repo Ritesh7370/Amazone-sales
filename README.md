@@ -52,7 +52,7 @@ It provides comprehensive insights into Amazon's 2024 sales performance across p
 4. Analyze performance by product, city, and state.
 ---
 ## 📸 Dashboard Preview
-![Dashboard Preview](https://github.com/YourUsername/Amazon-Sales-Dashboard-2024/blob/main/Dashboard_Screenshot.png?raw=true)
+![Dashboard Preview](Screenshot 2025-08-11 170750.png)
 
 
 ---
