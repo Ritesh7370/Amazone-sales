@@ -43,7 +43,6 @@ It provides comprehensive insights into Amazon's 2024 sales performance across p
 ---
 
 ## 📂 File Structure
-
 ---
 
 ## 🚀 How to Use
@@ -51,14 +50,10 @@ It provides comprehensive insights into Amazon's 2024 sales performance across p
 2. Open in **Excel** or **Power BI Desktop**.
 3. Use slicers/filters to explore different views of the data.
 4. Analyze performance by product, city, and state.
-
 ---
-
 ## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png)
-
+![Dashboard Preview](C:\Amazone Dashboard_Screenshot.png)
 ---
-
 ## 📈 Key Learnings
 - Data cleaning & transformation using Power Query.
 - Designing user-friendly dashboards with clear KPIs.
