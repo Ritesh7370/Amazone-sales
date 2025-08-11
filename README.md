@@ -64,7 +64,7 @@ It provides comprehensive insights into Amazon's 2024 sales performance across p
 ---
 
 ## 🤝 Connect With Me
-- **GitHub:** [YourGitHubProfile](https://github.com/YourGitHubProfile)
+- **GitHub:** [YourGitHubProfile]([https://github.com/YourGitHubProfile](https://github.com/Ritesh7370))
 - **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
 
 ---
